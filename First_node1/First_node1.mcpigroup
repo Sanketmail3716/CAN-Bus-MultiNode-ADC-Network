@@ -1,0 +1,8 @@
+[PROJECTS]
+Count=4
+Project0=First_node1.mcppi
+Project1=..\..\CAN\Three_Node_2ADC\First_node1\First_node1.mcppi
+Project2=..\..\CAN\Three_Node_2ADC\Second_node2\Second_node.mcppi
+Project3=..\..\CAN\Three_Node_2ADC\Third_node3\Third_node3.mcppi
+[ActiveProject]
+Index=3
